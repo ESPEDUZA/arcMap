@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1618103464 source:c:\users\eliot\onedrive\documents\c++\test_projet\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+	<fstream>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<opencv2/opencv.hpp>
+	"Graphe.h"
+	"Edge.h"
+	"Node.h"
+	"Skieur.h"
+
+1617804186 source:c:\users\eliot\onedrive\documents\c++\test_projet\node.cpp
+	"Node.h"
+	<iostream>
+	"string"
+
+1617783717 c:\users\eliot\onedrive\documents\c++\test_projet\node.h
+	"string"
+
+1618103059 source:c:\users\eliot\onedrive\documents\c++\test_projet\edge.cpp
+	"Edge.h"
+	"Node.h"
+	<iostream>
+
+1618103039 c:\users\eliot\onedrive\documents\c++\test_projet\edge.h
+	"string"
+	"Node.h"
+
+1617912415 source:c:\users\eliot\onedrive\documents\c++\test_projet\graphe.cpp
+	"Edge.h"
+	"Graphe.h"
+	<iostream>
+	<vector>
+
+1618161127 c:\users\eliot\onedrive\documents\c++\test_projet\graphe.h
+	"Edge.h"
+	<iostream>
+	<vector>
+
+1618161127 source:c:\users\eliot\onedrive\documents\c++\test_projet\skieur.cpp
+	"Skieur.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1618109728 c:\users\eliot\onedrive\documents\c++\test_projet\skieur.h
+	"string"
+
